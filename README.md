@@ -5,6 +5,6 @@ This is one of the Project in c++ where i used many functionality of c++ .
 2.>Binary file handling in c++
 3.>Creating function and their prototype.
 
-## SOME SCREENSHOTS OF CALCULATOR
+## SOME SCREENSHOTS OF BANKING INTERFACE
 
-![screenshot 1](https://github.com/akhikumar/C-plus-plus-Project/master/project.png)
+![screenshot 1](https://github.com/akhikumar/C-plus-plus-Project/project.png)
