@@ -7,7 +7,7 @@ This is one of the Project in c++ where i used many functionality of c++ .
 
 ## SOME SCREENSHOTS OF BANKING INTERFACE
 
-![screenshot 1](https://raw.githubusercontent.com/akhikumar/C-plus-plus-Project/edit/master/project.png)
+![screenshot 1](https://raw.githubusercontent.com/akhikumar/MINI-C-plus-plus-Project/master/project.png)
 
 ![screenshot 1](https://raw.githubusercontent.com/akhikumar/C-plus-plus-Project/master/Screenshot.png)
 
